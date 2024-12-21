@@ -497,6 +497,13 @@ a:focus {
   background-color: #1c1c1c;
 }
 
+.service_section .row{
+ 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 
 
 .service_section .heading_container {
